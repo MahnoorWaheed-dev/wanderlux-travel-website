@@ -54,10 +54,10 @@ It focuses on **modern UI design, smooth user experience, and aesthetic visuals*
 ## 📸 Screenshots
 
 ### 🌞 Light Mode
-![Light Mode](./screenshots/light-mode.png)
+![Light Mode](./screenshots/wanderlux-light-mode.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
+![Dark Mode](./screenshots/wanderlux-dark-mode.png)
 
 ---
 
