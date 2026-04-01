@@ -4,10 +4,9 @@
 
 ---
 
-## 🌐 Live Demo
+### 🌐 Live Demo  
+[Click Here to Visit 🚀]( https://mahnoorwaheed-dev.github.io/wanderlux-travel-website/)
 
-👉  https://mahnoorwaheed-dev.github.io/wanderlux-travel-website/
----
 
 ## 📌 About The Project
 
