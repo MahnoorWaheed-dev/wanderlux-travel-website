@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 (Add your GitHub Pages link here)
-
+🔗  https://mahnoorwaheed-dev.github.io/wanderlux-travel-website/
 ---
 
 ## 📌 About The Project
